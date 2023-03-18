@@ -1,0 +1,52 @@
+body{
+  background-image: linear-gradient(rgb(99, 170, 99),rgb(67, 219, 87),rgb(75, 195, 225));
+  background-repeat: no-repeat;
+  margin-bottom: 109px;
+}
+
+.ref1{
+  margin-top: 200px;
+  font-style: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  padding: 15px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.container{
+  font-size: larger;
+  background-color: rgb(82, 90, 171);
+  border-radius: 0.5cm;
+  margin-left: 6cm;
+  margin-right: 6cm;
+}
+
+.but{
+  text-align: top;
+  background-color: rgb(236, 164, 164);
+  padding: 5px;
+  border-radius: 0.1cm;
+  transition-duration: 1s;
+  cursor: pointer;
+}
+
+#username{
+  padding: 5px;
+  border-radius: 0.5px;
+}
+
+#email{
+  padding: 5px;
+  border-radius: 0.5px;
+}
+
+#pwd{
+  padding: 5px;
+  border-radius: 0.5px;
+}
+
+#pwd-repeat{
+  padding: 5px;
+  border-radius: 0.5px;
+}

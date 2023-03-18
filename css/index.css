@@ -1,0 +1,60 @@
+.bod{
+    background-image: linear-gradient(orange,yellow);
+    margin-bottom: 115px;
+    padding-bottom: 9px;
+}
+
+.org{
+    font-family:'Times New Roman', Times, serif;
+}
+
+#img{
+    text-align: center;
+}
+
+h1{
+    font-style: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 90px;
+    padding: 30px;
+    background-color: rgb(72, 141, 4);
+    border-radius: 1cm;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.resp{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    margin-top: 60px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 50px;
+    background-color: rgb(53, 206, 142);
+    border-radius: 1cm;
+    text-align: center;
+}
+
+img{
+    margin-top: 18px;
+    width: 240px;
+    border-radius: 0.3cm;
+}
+
+#log:hover{
+    padding: 3px;
+    border-radius: 0.1cm;
+    transition-duration: 0.2s;
+    background-color: aqua;
+    cursor: pointer;
+}
+
+#reg:hover{
+    background-color: aqua;
+    border-radius: 0.1cm;
+    transition-duration: 0.2s;
+    padding: 3px;
+    cursor: pointer;
+}

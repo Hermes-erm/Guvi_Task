@@ -1,0 +1,32 @@
+img{
+    text-align: center;
+    margin-left: 13cm;
+    border-radius: 1cm;
+}
+
+body{
+    background-image: linear-gradient(violet,pink);
+    background-repeat: no-repeat;
+    padding: 154px;
+}
+
+.container{
+    padding: 0;
+    text-align: left;
+}
+
+#b1{
+    padding: 5px;
+    background-color: aliceblue;
+}
+
+table{
+    margin-left: 3cm;
+    text-align: left;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding: 10px;
+    width: 1000px;
+    background-color: rgb(90, 106, 106);
+    border-radius: 0.5cm;
+}
